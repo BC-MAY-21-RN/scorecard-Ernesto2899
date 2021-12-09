@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Ernesto De Jesus Ramirez Martinez
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: eramirez28@ucol.mx
+  phone: 3122146617
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: Ernesto2899
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -27,62 +27,45 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Managment
       link: # dejar en blanco
 
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Planner
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+     I am a person who enjoys to learn about diffrent subjects and topics including things related to my work these things interest me becuase
+     I believe that everthing can be tide up with tecnology so its necessary to learn diffrent topics.
+     
+     Im a Software Engineer student threw my time at my school i have learned the importance of programing and its usefulness in every day life.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineer
+    university: University of Colima
+    time: 2018 Aug - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
+  - degree: Graduate of the language center in the English Course
+    university: Tecnologico de Monterrey
+    time: 2017 - 2028
+    details: 
+      
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -123,22 +106,22 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
+      level: 0%
 
     - name: PyTorch
-      level: 40%
+      level: 00%
 
     - name: Tensorflow
       level: 60%
 
     - name: Caffe
-      level: 80%
+      level: 0%
 
     - name: Matlab
-      level: 100%
+      level: 0%
 
     - name: C/C++
-      level: 40%
+      level: 35%
 
 # NO MODIFICAR
 footer: >
