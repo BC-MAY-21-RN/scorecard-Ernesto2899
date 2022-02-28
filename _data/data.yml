@@ -62,7 +62,7 @@ educationcomplete:
 
   - degree: Graduate of the language center in the English Course
     university: Tecnologico de Monterrey
-    time: 2017 - 2028
+    time: 2017 - 2018
     details: 
       
 
@@ -121,7 +121,7 @@ skills:
       level: 0%
 
     - name: C/C++
-      level: 35%
+      level: 45%
 
 # NO MODIFICAR
 footer: >
