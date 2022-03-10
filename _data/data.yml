@@ -57,7 +57,7 @@ career-profile:
 educationcomplete:
   - degree: Software Engineer
     university: University of Colima
-    time: 2018 Aug - current
+    time: 2018 Aug - 2022 Julio
     details: |
 
   - degree: Graduate of the language center in the English Course
@@ -85,15 +85,6 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -109,7 +100,7 @@ skills:
       level: 0%
 
     - name: PyTorch
-      level: 00%
+      level: 0%
 
     - name: Tensorflow
       level: 60%
@@ -118,7 +109,7 @@ skills:
       level: 0%
 
     - name: Matlab
-      level: 0%
+      level: 20%
 
     - name: C/C++
       level: 45%
